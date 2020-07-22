@@ -1,0 +1,12 @@
+{
+  "name": "fav",
+  "version": "1.0.0",
+  "description": "Serverless favicon generator",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Max Kostinevich <hello@maxkostinevich.com>",
+  "license": "MIT",
+  "dependencies": {
+    "png-pong": "^1.0.1"
+  }
+}

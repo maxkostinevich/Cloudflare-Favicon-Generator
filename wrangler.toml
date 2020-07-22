@@ -1,0 +1,5 @@
+name = "fav"
+type = "webpack"
+account_id = ""
+workers_dev = true
+zone_id = ""
